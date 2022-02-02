@@ -1,0 +1,78 @@
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\Google.Protobuf.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\Zstandard.Net.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\Renci.SshNet.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Selim Başpınar\source\repos\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.exe.config
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.Adduser.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.AddProduct.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.Ürün_Güncelle.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.PersonalPanel.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.adminPanel1.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.Sale.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.AddCustomers.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.CustomersShopping.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.EditWorkingHours.resources
+C:\Users\Selim Başpınar\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.AddCustomers.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.AddProduct.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.Adduser.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.Login.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.adminPanel1.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.CustomersShopping.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.EditWorkingHours.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.PersonalPanel.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.Sale.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.Ürün_Güncelle.resources
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.pdb
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\Login.exe.config
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\Login.exe
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\Login.pdb
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\Google.Protobuf.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\MySql.Data.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Buffers.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Memory.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\Ubiety.Dns.Core.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\ZstdNet.dll
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\Google.Protobuf.pdb
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\Google.Protobuf.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\K4os.Compression.LZ4.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\K4os.Hash.xxHash.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\MySql.Data.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Buffers.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Memory.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Programming\Visual Studio Projeleri\repos\Login\Login\obj\Debug\Login.exe
